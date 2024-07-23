@@ -3,7 +3,7 @@
 A hypnotic Python script that generates a stunning, red, swirling pattern using the Turtle graphics library. The Red Vortex is a mesmerizing display of circular motion, perfect for relaxation and coding inspiration.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/LLT7iAJO32Q))
 
 # Screenshot
 
